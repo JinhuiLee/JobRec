@@ -1,0 +1,17 @@
+.jumbotron {
+    position: relative;
+    background-image: url("https://www.w3schools.com/css/trolltunga.jpg");
+    background-size: cover;
+    width: 100%;
+    min-height: 200px;
+    height: 100%;
+    overflow: hidden;
+}
+
+.btn {
+    margin-right: 10px
+}
+
+.badge{
+    font-size: 20px
+}
